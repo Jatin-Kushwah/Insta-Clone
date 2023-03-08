@@ -1,0 +1,6 @@
+[submodule "social-media-client"]
+	path = social-media-client
+	url = https://github.com/Jatin-Kushwah/social-media-client.git
+[submodule "social-media-server"]
+	path = social-media-server
+	url = https://github.com/Jatin-Kushwah/social-media-server.git
